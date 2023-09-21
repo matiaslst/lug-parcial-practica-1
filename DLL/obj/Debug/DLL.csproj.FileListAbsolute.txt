@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\uai-lug\pre-parcial\DLL\bin\Debug\DLL.dll
+C:\Users\Usuario\Desktop\uai-lug\pre-parcial\DLL\bin\Debug\DLL.pdb
+C:\Users\Usuario\Desktop\uai-lug\pre-parcial\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\uai-lug\pre-parcial\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\uai-lug\pre-parcial\DLL\obj\Debug\DLL.dll
+C:\Users\Usuario\Desktop\uai-lug\pre-parcial\DLL\obj\Debug\DLL.pdb
